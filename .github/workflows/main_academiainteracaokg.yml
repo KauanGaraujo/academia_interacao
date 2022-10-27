@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'academiainteracaokg'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_84581268010F421A8170EF432F13CBED }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1536E8586313437F8F1D12E8A81426FB }}
           package: .
